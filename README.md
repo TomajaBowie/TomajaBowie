@@ -42,5 +42,5 @@ Architected an end-to-end framework detailing qualification pathways, compliance
 
 ---
 
-## Badges
+
 
