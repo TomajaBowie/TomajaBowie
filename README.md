@@ -44,5 +44,3 @@ Architected an end-to-end framework detailing qualification pathways, compliance
 
 ## Badges
 
-### My GitHub Stats
-[![Tomaja's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
