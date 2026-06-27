@@ -1,46 +1,52 @@
 # Hi 👋 My name is Tomaja Bowie
 
-## AI Data Operations Manager & Project Specialist
+🚀 Software Engineer & AI Evaluation Specialist | Specialized in Code Auditing, Algorithmic Efficiency & Advanced Systems Validation
 
-Highly organized and data-driven AI Data Operations Manager and Project Specialist with a proven track record of managing end-to-end data workstreams and complex project lifecycles for frontier AI models. Expert in coordinating distributed cross-functional teams, executing high-stakes pilots (POCs), and translating ambiguous client requirements into rigorous quality architecture frameworks.
+I operate at the intersection of production-grade software engineering and cutting-edge AI model validation. With an elite technical grounding from MIT and Carnegie Mellon University, my core expertise centers on debugging, benchmarking, and auditing complex software architectures across diverse technology stacks.
 
-* 🌍 I'm based in the United States
-* ✉️ You can contact me using [tomajabowie@gmail.com](mailto:tomajabowie@gmail.com)
-* 💼 Connect with me on [LinkedIn](https://linkedin.com/in/tomaja-bowie-2496352bb/)
-* 🧠 Focus Areas: AI Data Quality Architecture, Operational Diagnostics, Optimization
-
-## Skills & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
-  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-* **Core Competencies:** End-to-End Workstream Coordination, Quality Sampling Methodologies, Pilot & POC Execution, Technical Writing, Change Management, Process Automation.
-
-## Professional Experience Snapshot
-
-* **Senior Project Specialist - Digital Operations** @ Cognizant (June 2025 - Present)
-  * Overseeing productivity and QA mechanisms for a distributed workforce of 500+ global contributors.
-* **External Operations Consultant** @ Genpact (May 2024 - May 2025)
-  * Delivered high-quality pilot annotations and established baseline time-per-task operational metrics.
-* **Graduate Data Workstream Assistant** @ Infosys (June 2023 - May 2024)
-  * Managed data pipeline routing and applied rigorous sampling methodologies to language model evaluation.
-
-## Featured Projects
-
-### 📊 Automated Operational Diagnostics Dashboard
-Built a custom dashboard using **Python** and **SQL** to monitor throughput, accuracy, and time-per-task metrics across multiple concurrent data operations, enabling proactive optimization.
-
-### 📚 Global Crowd Team Lifecycle Playbook & Training Engine
-Architected an end-to-end framework detailing qualification pathways, compliance gates, and modular feedback loops for scaling distributed contractor networks.
+I specialize in authoring high-difficulty SWE-bench-style coding challenges, executing edge-case testing, and breaking down ambiguous requirements into deterministic, secure code execution pipelines. 
 
 ---
 
+🛠️ TECH STACK & CAPABILITIES
 
+• Primary Languages: Python, JavaScript, TypeScript, Go, Swift, SQL
+• AI Evaluation & Quality: SWE-bench Task Authoring, Model Output Auditing, Fine-Tuning Validation, Edge-Case Testing, Code Correctness Verification
+• Backend & API Architecture: Node.js, FastAPI, Flask, REST APIs, Microservices, Systems Design
+• Databases & Caching: PostgreSQL, MySQL, MongoDB, Redis, Schema Optimization
+• Testing & QA: Input Validation Testing, Unit/Integration Test Suites, Bug Hunting, Actual vs. Expected Output Analytics
+• DevOps & Cloud: AWS, GCP, Docker, GitHub Actions, CI/CD, Headless Online IDEs
 
+---
+
+📈 CAREER HIGHLIGHTS
+
+💡 Software Engineer (AI & Systems Validation) | Accenture
+Evaluate and audit multi-file AI-generated technical scripts for structural quality and execution logic errors. Maintain cloud-native backend infrastructure using Python, Node.js, and Go across enterprise systems.
+
+💡 Software Engineer Consultant | EPAM Systems
+Designed and deployed localized coding challenges and SWE-bench-style debugging tasks within private repositories to stress-test model resilience under a remote, asynchronous model-validation workflow.
+
+💡 Graduate Systems Testing Analyst | Capgemini
+Engineered automated backend testing pipelines and data processing scripts to validate high-volume software engineering training datasets, constructing comprehensive validation suites to minimize runtime exceptions.
+
+💡 External Operations Consultant | IBM
+Contributed to production-level NLP and machine learning pipelines, ensuring script optimization and writing comprehensive test suites cross-referencing actual vs. expected outputs prior to cloud deployment.
+
+---
+
+🎓 EDUCATION & CREDENTIALS
+
+• M.S. in Computer Science | Carnegie Mellon University (GPA: 3.91/4.0)
+Specialization in Software Architecture, Automated Testing, & Human-in-the-Loop Optimization.
+
+• B.S. in Computer Science | Massachusetts Institute of Technology (MIT) (GPA: 4.8/5.0 | Summa Cum Laude)
+Focused on Advanced Data Structures, Systems Design, and Compiler Theory. Eta Kappa Nu (HKN) Honor Society.
+
+• Key Certifications: Stanford Machine Learning Specialization | AWS Cloud Practitioner & ML Foundations | Google Cloud Professional Data Engineer
+
+---
+
+📬 Let's Connect:
+📧 Email: tomajabowie@gmail.com
+💻 GitHub: github.com/TomajaBowie
